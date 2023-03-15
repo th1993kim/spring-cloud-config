@@ -1,0 +1,5 @@
+token:
+  secret: user_token_taehyun_key_jjazengnanda
+  
+gateway:
+  ip: 192.168.0.108 
