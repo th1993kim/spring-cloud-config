@@ -1,6 +1,6 @@
 token:
   expiration-time: 86400000
-  secret: user_token_taehyun_key_jjazengnanda_taehyun
+  secret: user_token_taehyun_key_jjazengnanda_taehyun_prod
   
 gateway:
   ip: 192.168.0.108 
