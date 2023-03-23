@@ -1,3 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:tcp://localhost/~/testDB
+    username: sa
+    password:
+
 token:
   expiration-time: 86400000
   secret: user_token_taehyun_key_jjazengnanda_taehyun_dev
