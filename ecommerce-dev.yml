@@ -7,7 +7,7 @@ spring:
 
 token:
   expiration-time: 86400000
-  secret: user_token_taehyun_key_jjazengnanda_taehyun_dev
+  secret: '{cipher}AQBErp4pc/lD+hVfjU1bAX17v0+uEAxThDbIQSfdFS2XMI6EVxeAlvYQYRtZ5t6DgU32xYi16tHA4a/qvT+3tMRBXk+HcBJcN9cm8Cq3KpxpsWQwtTkznZPg7JEyTcSTqP+V0BwBYYSanHnlg/9j+Z/ziCsbDSaVgLcwGq5dB/jE2ZRFIO0vTstDmi15zx96z/DHiMl1vFN65bvsVEwlht6dYgsyLlOLgb9wLlzI3vcEPdsglaNAaHEE/UbkFu8RrG5pMzSn38sAHIeE+6zWR4wV0fPLZjvBR70dk/jxS8AKdUk2XUligLX5ENKzX3IG5SuDj0EXW/XcVRmaVUrh4MYOICrddehuiREQj7uqi6RVj7sRWVDRsMuZ9iTfZ1nXkorWHaScmgdrOnH5zj/+O8KCM2nyXNyT7vdAMUFIE+Hofg=='
   
 gateway:
   ip: 192.168.0.108 
