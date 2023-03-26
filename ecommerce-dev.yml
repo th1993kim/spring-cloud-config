@@ -1,10 +1,3 @@
-spring:
-  datasource:
-    driver-class-name: org.h2.Driver
-    url: jdbc:h2:tcp://localhost/~/testDB
-    username: sa
-    password: '{cipher}AQBsnpA5n/YDd5royhIj994ol9kk/8EEa5xznD6tvCSm+WW7oMdqyLvtUzHkIdVM/wrBLiTUS1TN8S47sJS7pGW3okA6oV1CcSTjCjZZdq9EKIMA5sxcXDGhIL1i7L+SJ+EXicElSHQhlWpefPU9fO7XyUvW9xWNy+F5Gpp4481dun1PAsVdwgJbju76rYgolKm9PMNk5gRPtfX/EPwrYfRY4QUwiWXdRDQ8pHlq3ltmekV0K5gg+dWi0u4fj2ACFNZxgpvQzzy6CdjKAQ7rzafkhdwqIGTnfUOk4/7cXe6S7oJBe//oFwLdek7Z9SbBAQTIbSS1eSbdimzjPom0XS26keTNq39maZYHB72LY3U7HCcBJpAYIJ+NTKNdayI944c='
-
 token:
   expiration-time: 86400000
   secret: '{cipher}AQA2Ra0So1TWlgE1I4k2tZ80p58UVG0XS12v6AdcQd2G7AXlDu7Yf4xKOL5jHRI6lEas18NNbBhamCnmjdq+v3fP2mp4PnbLCmp5cIyKj0cJ5Uc8B9+MQIbJCtKGJQ9SdYPHe1hJaqbnHexjbfZJwqR0dIGceRm0+hhfD7eYRCsCFBnHpCiQousvaL+XN+SGgEL0V8GeE6D2/PVf77AIKaAt3dSJkWvIR/zts3YmxrIWcJPf7vbe2UFMvUyt9xgBQikeoXMF+uqrtJ8JkuGMV3dHfvHr9UTwZoymgXTNBWRbwYGuAuZ4zEo8WDngv6jXO9mNGmf0Qf0rgWEpSNIU9p1KKfWQih7uP07ieeOfnIddxQBcs2QXfhgYyFAx6cYxJ2eDLf0Ti3w4ucYIKHDATS5inTInEbKHjTkhfLfk8BP4YT9nPUbepPdyYLzL/3tbVsY='  
