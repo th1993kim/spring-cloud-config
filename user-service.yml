@@ -1,0 +1,8 @@
+token:
+  expiration-time: 86400000
+  secret: '{cipher}AQA2Ra0So1TWlgE1I4k2tZ80p58UVG0XS12v6AdcQd2G7AXlDu7Yf4xKOL5jHRI6lEas18NNbBhamCnmjdq+v3fP2mp4PnbLCmp5cIyKj0cJ5Uc8B9+MQIbJCtKGJQ9SdYPHe1hJaqbnHexjbfZJwqR0dIGceRm0+hhfD7eYRCsCFBnHpCiQousvaL+XN+SGgEL0V8GeE6D2/PVf77AIKaAt3dSJkWvIR/zts3YmxrIWcJPf7vbe2UFMvUyt9xgBQikeoXMF+uqrtJ8JkuGMV3dHfvHr9UTwZoymgXTNBWRbwYGuAuZ4zEo8WDngv6jXO9mNGmf0Qf0rgWEpSNIU9p1KKfWQih7uP07ieeOfnIddxQBcs2QXfhgYyFAx6cYxJ2eDLf0Ti3w4ucYIKHDATS5inTInEbKHjTkhfLfk8BP4YT9nPUbepPdyYLzL/3tbVsY='  
+gateway:
+  ip: 192.168.0.108 
+
+order_service:
+    url: http://127.0.0.1:9090/order-service
